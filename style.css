@@ -1,0 +1,61 @@
+#contact iframe
+{
+    width: 100%;
+}
+.contact_1 h3
+{
+    display: inline;
+}
+.contact_1 a
+{
+    text-shadow: none;
+}
+ 
+input
+{
+    background: grey
+}
+
+.T
+{
+    border: 1px solid #c7c7c7;
+    float: none;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.T img
+{
+    width: 100%;
+}
+
+.T hr
+{
+    width: 230px;
+}
+
+.T h5, .T p
+{
+    margin-left: 20px;
+}
+
+.n1
+{
+    margin-top: 13px;
+} 
+
+.n1 h4
+{
+    border-bottom: 1px solid pink;
+    padding: 8px;
+}
+
+.n1 img
+{
+    border-radius: 25px;
+}
+
+.n1 p
+{
+    margin-top: 10px;
+}
